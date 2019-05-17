@@ -1,0 +1,12 @@
+KillAura:APS:12.0
+KillAura:reach:4.5
+KillAura:autoblock:false
+Velocity:percentage:0.0
+Criticals:mode:Minijumps
+Speed:mode:Guardian
+LongJump:mode:Guardian
+Flight:mode:Guardian
+FastBow:guardian:true
+ESP:mode:Outline
+Phase:mode:SkipClip
+FastUse:guardian:true
